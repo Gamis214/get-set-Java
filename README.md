@@ -175,6 +175,18 @@ public class Main {
 }
 ```
 
+Una vez ejecutado el codigo **Main** el resultado es el siguiente:
+```
+-------------------------------------------------
+PAIS: MEXICO Modelo: HE Region: 2356
+NOMBRE: LG COLOR: ROJO SERIE: LG
+-------------------------------------------------
+-------------------------------------------------
+PAIS: HOLANDA Modelo: MG Region: 5897
+NOMBRE: MOTOROLA COLOR: AZUL SERIE: MOTOROLA
+-------------------------------------------------
+```
+
 
 
 
