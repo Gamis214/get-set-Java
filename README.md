@@ -1,5 +1,5 @@
 # get set Herencia en Java
-Ejemplo sencillo aplicando GET, SET & HERENCIA en Java
+Ejemplo aplicando GET, SET & HERENCIA en Java
 
 ##Ejemplo
 Como se vio en el ejercicio: [POO en java](https://github.com/Gamis214/POO)
